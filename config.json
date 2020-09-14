@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Energy company - QA",
+    "url": "http://10.219.11.238/pipeline",
+    "emails" : [ "mary@domain.com", "jon-doe@domain.com" ]
+  },
+  {
+    "name": "Energy company - Prod",
+    "url": "http://10.219.7.91/pipeline",
+    "emails" : [ "mary@domain.com" ]
+  }
+]
